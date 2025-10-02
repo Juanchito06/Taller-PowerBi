@@ -1,0 +1,38 @@
+CONTACTOS CLIENTE
+
+CONTEXTO: Tenemos un archio CSV con 30 datos en 6 columnas donde la información que tiene es muy estándar y común, son datos de contacto y identificación de usuarios o personas
+
+PASO A PASO: 
+1. Descargo el csv que tiene  30 filas y 6 columnas 
+2. Cargo el csv al power Bi
+3. Voy a transformas los datos en el Power Query 
+4. Identifico y analizo la tabla y los datos e interpreto que puedo modificarle 
+5. Cambio el nombre de las columnas por el valor que tiene ella
+6. Elimino una fila que tenia datos redundantes 
+7. Remplace el valor en la columna de correo donde el "@mail.com" estaba incompleto y todos que tuvieran este error cambiarlos por "@Gmail.com"
+8. En la columna Teléfono quite los duplicados ya que un numero de celular es único y no pueden haber dos y se remplazo algunos valores que no pertenecían a esa fila
+9. En la columna de PAIS, remplace algún datos que no correspondía a esa fila  
+10. Elimine una columna que tenia datos innecesarios y quedo de 5 columnas en archivo
+
+CONTACTO EMPLEADOS 
+
+PASO A PASO 
+1. Descargo el csv que tiene  30 filas y 6 columnas 
+2. Cargo el csv al power Bi
+3. Voy a transformas los datos en el Power Query 
+4. En estos datos puedo identificar varios datos erróneos otros duplicados y otros en desorden 
+5. Primero modifico el nombre de las columnas para identificarlas mejor sobre que datos se manejan en esa fila 
+6. Quite los duplicados en las columnas de ID, E-MAIL y CELULAR, ya que estos datos deben ser únicos y no repetidos 
+7. Quite una fila que tenia datos nulos 
+8. Remplace algunos valores en la Columna de E-MAIL ya que algunos datos eran incorrectos
+9. Elimine un columna que tenia datos redundantes y mal ubicados
+
+CONTACTO PROVEEDOR 
+
+PASO A PASO 
+1. Descargo el csv que tiene  30 filas y 6 columnas 
+2. Cargo el csv al power Bi
+3. Voy a transformas los datos en el Power Query 
+4. Lo primero que hice fue cambiar el nombre de las columnas para identificarlas mas fácilmente
+5. También quite la duplicidad de los campo de  EMAIL
+6. Remplace valores incongruentes 
